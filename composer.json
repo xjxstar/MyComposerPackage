@@ -1,0 +1,11 @@
+{
+    "name": "xjstar/test",
+    "description": "my test package",
+    "keywords": ["private"],
+    "require": {
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "~4.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
